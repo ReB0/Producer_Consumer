@@ -1,0 +1,6 @@
+C:\Users\rebolan1\Desktop\Produttore_Consumatore_Archivio\Produttore-Consumatore\Produttore-Consumatore_interfacce\bin\Debug\Produttore-Consumatore_interfacce.exe.config
+C:\Users\rebolan1\Desktop\Produttore_Consumatore_Archivio\Produttore-Consumatore\Produttore-Consumatore_interfacce\obj\Debug\Produttore-Consumatore_interfacce.exe
+C:\Users\rebolan1\Desktop\Produttore_Consumatore_Archivio\Produttore-Consumatore\Produttore-Consumatore_interfacce\obj\Debug\Produttore-Consumatore_interfacce.pdb
+C:\Users\rebolan1\Source\Repos\Producer_Consumer\Produttore-Consumatore_interfacce\bin\Debug\Produttore-Consumatore_interfacce.exe.config
+C:\Users\rebolan1\Source\Repos\Producer_Consumer\Produttore-Consumatore_interfacce\obj\Debug\Produttore-Consumatore_interfacce.exe
+C:\Users\rebolan1\Source\Repos\Producer_Consumer\Produttore-Consumatore_interfacce\obj\Debug\Produttore-Consumatore_interfacce.pdb
